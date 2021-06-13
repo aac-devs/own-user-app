@@ -1,0 +1,27 @@
+.title {
+  width: calc(100% - 30px);
+  padding: 10px 15px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.message {
+  background-color: #fff;
+  padding: 15px;
+  font-size: 14px;
+  color: #000;
+}
+
+.actions {
+  background-color: #fff;
+  padding: 15px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.backcolor {
+  background-color: rgb(96, 6, 104);
+}
